@@ -1,0 +1,20 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sporttowerdisc",
+    "name": "Sprout Tower Disc",
+    "description": "Plays the sounds of a distant land...",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:sprouttowertheme"
+    },
+    "specialInfo": [
+      "legendary",
+      "special"
+    ],
+    "hasGlow": true
+  }
+}

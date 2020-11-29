@@ -1,0 +1,77 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StoneSlab",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SproutTowerDisc",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SproutTowerDiscRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WheatBread",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WheatBreadRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "sprouttowertheme",
+      "file": "prout_ower",
+      "category": "music"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.record.sprouttowerdisc.desc": "Plays the sounds of a distant land...",
+      "item.sprouttowerdisc.name": "Sprout Tower Disc",
+      "item.wheatbread.name": "Wheat Bread"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "gcfix",
+    "modName": "GCFix",
+    "version": "1.0.0",
+    "description": "Fixes any missing interaction between our current mods.",
+    "author": "Dizthenes",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

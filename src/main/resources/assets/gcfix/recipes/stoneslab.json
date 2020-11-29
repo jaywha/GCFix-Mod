@@ -1,0 +1,27 @@
+{
+  "group": "gcfix",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_slab",
+    "data": 0,
+    "count": 6
+  }
+}

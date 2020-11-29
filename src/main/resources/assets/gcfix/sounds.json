@@ -1,0 +1,11 @@
+{
+  "sprouttowertheme": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "gcfix:prout_ower",
+        "stream": true
+      }
+    ]
+  }
+}
