@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "breadonasticktexture",
+    "customModelName": "Normal",
+    "name": "Bread On Stick Tool",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 2.5,
+    "enchantability": 8,
+    "damageVsEntity": 2.0,
+    "usageCount": 60,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "onRightClickedInAir": {
+      "name": "BreadOnStickToolRightClickedInAir"
+    }
+  }
+}

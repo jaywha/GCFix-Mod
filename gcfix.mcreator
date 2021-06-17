@@ -40,6 +40,34 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "BreadOnStickToolRightClickedInAir",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BreadOnStickTool",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -53,6 +81,7 @@
   "language_map": {
     "en_us": {
       "item.record.sprouttowerdisc.desc": "Plays the sounds of a distant land...",
+      "item.breadonsticktool.name": "Bread On Stick Tool",
       "item.sprouttowerdisc.name": "Sprout Tower Disc",
       "item.wheatbread.name": "Wheat Bread"
     }
