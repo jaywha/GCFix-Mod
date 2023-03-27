@@ -33,7 +33,7 @@ jobs:
         format: YYMM.DDHH.MMSS
         utcOffset: "+08:00"
     - name: Create Release
-      uses: elgohr/Github-Release-Action@v3.1
+      uses: elgohr/Github-Release-Action@v4
       with:
         # The name of the release to publish
         release: "GCFix-Mod.${{ steps.current-time.outputs.formattedTime }}"
